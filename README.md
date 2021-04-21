@@ -2,7 +2,7 @@
 
 ### Lab 
 
-[Lab 01](https://github.com/TP1-HHU/lab1)
+[Lab 01](https://classroom.github.com/a/zuhw32qn)
 
 
 ### Homework
