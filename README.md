@@ -9,4 +9,4 @@
 
 ### Homework
 
-[HW01](https://classroom.github.com/a/Au6fSTSL)
+[HW01](https://classroom.github.com/a/Au6fSTSL) - Statically allocated arrays + File IO
