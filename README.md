@@ -15,4 +15,6 @@
 
 [HW01](https://classroom.github.com/a/Au6fSTSL) - Statically allocated arrays + File IO.  [Solution](https://github.com/TP1-HHU/hw1_SoSe21)
 
-[HW02](https://classroom.github.com/a/BW-HWlzs) - Dynamic allocation + reading data from files
+[HW02](https://classroom.github.com/a/BW-HWlzs) - Dynamic allocation + reading data from files  [Solution](https://github.com/TP1-HHU/hw2_SoSe21)
+
+HW03 - in progress... kommt noch
