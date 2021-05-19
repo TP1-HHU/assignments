@@ -10,6 +10,8 @@
 
 [Lab 04](https://classroom.github.com/a/QUDFPJkA) - Random walk  [Solution](https://github.com/TP1-HHU/lab4_sose21)
 
+[Lab 05](https://classroom.github.com/a/RnOZn2Gc) - Random walk II
+
 
 ### Homework
 
