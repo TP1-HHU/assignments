@@ -12,7 +12,7 @@
 
 [Lab 05](https://classroom.github.com/a/RnOZn2Gc) - Random walk II
 
-[Lab 06](https://classroom.github.com/a/xNekNn5y) - Lorenz ODEs
+[Lab 06](https://classroom.github.com/a/U3ou00re) - Lorenz ODEs
 
 
 ### Homework
