@@ -21,5 +21,5 @@
 
 [HW02](https://classroom.github.com/a/BW-HWlzs) - Dynamic allocation + reading data from files  [Solution](https://github.com/TP1-HHU/hw2_SoSe21)
 
-[HW03](https://classroom.github.com/a/3IVhslf0) - 2D data in 1D dynamic allocated array - The return of the Newton fractal
+[HW03](https://classroom.github.com/a/3IVhslf0) - 2D data in 1D dynamic allocated array - The return of the Newton fractal [Solution](https://github.com/TP1-HHU/hw3_sose21)
 
