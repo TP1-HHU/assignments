@@ -10,7 +10,7 @@
 
 [Lab 04](https://classroom.github.com/a/QUDFPJkA) - Random walk  [Solution](https://github.com/TP1-HHU/lab4_sose21)
 
-[Lab 05](https://classroom.github.com/a/RnOZn2Gc) - Random walk II
+[Lab 05](https://classroom.github.com/a/RnOZn2Gc) - Random walk II [Solution](https://github.com/TP1-HHU/lab5_sose21)
 
 [Lab 06](https://classroom.github.com/a/U3ou00re) - Lorenz ODEs [Solution](https://github.com/TP1-HHU/lab6_sose21)
 
