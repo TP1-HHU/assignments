@@ -25,4 +25,4 @@
 
 [HW03](https://classroom.github.com/a/3IVhslf0) - 2D data in 1D dynamic allocated array - The return of the Newton fractal [Solution](https://github.com/TP1-HHU/hw3_sose21)
 
-[HW04] After long and intense considerations, I decided that there will be no new homework this week (31.5.)
+[HW04](https://classroom.github.com/a/HiMaLdDb) - Parallelized Newton fractal. (Remember to put -fopenmp as additional compiler flag!)
