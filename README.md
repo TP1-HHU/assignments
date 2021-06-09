@@ -14,7 +14,9 @@
 
 [Lab 06](https://classroom.github.com/a/U3ou00re) - Lorenz ODEs [Solution](https://github.com/TP1-HHU/lab6_sose21)
 
-[Lab 07](https://classroom.github.com/a/lNYzRWMC) - Vector class
+[Lab 07](https://classroom.github.com/a/lNYzRWMC) - Vector class [Solution](https://github.com/TP1-HHU/lab7_sose21)
+
+[Lab 08](https://classroom.github.com/a/-6f7cyKA) - Fraction class
 
 
 ### Homework
