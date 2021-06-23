@@ -18,7 +18,9 @@
 
 [Lab 08](https://classroom.github.com/a/-6f7cyKA) - Fraction class [Solution](https://github.com/TP1-HHU/lab8_sose21)
 
-[Lab 09](https://classroom.github.com/a/sgtcCu6n) - Relatvistic Oscillator - Hamiltonian Systems 
+[Lab 09](https://classroom.github.com/a/sgtcCu6n) - Relatvistic Oscillator - Hamiltonian Systems  [Solution](https://github.com/TP1-HHU/lab9_sose21)
+
+[Lab10](https://classroom.github.com/a/04PM6xaq) - Upwind / FTCS - Advection equation
 
 
 
