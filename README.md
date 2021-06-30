@@ -22,7 +22,7 @@
 
 [Lab10](https://classroom.github.com/a/04PM6xaq) - Upwind / FTCS - Advection equation
 
-
+[Lab11](https://classroom.github.com/a/LX4fgCz7) - Implicit Euler / Diffusion equation
 
 ### Homework
 
