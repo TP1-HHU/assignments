@@ -24,6 +24,8 @@
 
 [Lab11](https://classroom.github.com/a/LX4fgCz7) - Implicit Euler / Diffusion equation
 
+[Lab12](https://classroom.github.com/a/Bjz4EDIY) - Nonlinear Schrödinger equation
+
 ### Homework
 
 [HW01](https://classroom.github.com/a/Au6fSTSL) - Statically allocated arrays + File IO.  [Solution](https://github.com/TP1-HHU/hw1_SoSe21)
