@@ -20,9 +20,9 @@
 
 [Lab 09](https://classroom.github.com/a/sgtcCu6n) - Relatvistic Oscillator - Hamiltonian Systems  [Solution](https://github.com/TP1-HHU/lab9_sose21)
 
-[Lab10](https://classroom.github.com/a/04PM6xaq) - Upwind / FTCS - Advection equation
+[Lab10](https://classroom.github.com/a/04PM6xaq) - Upwind / FTCS - Advection equation [Solution](https://github.com/TP1-HHU/lab10_sose21)
 
-[Lab11](https://classroom.github.com/a/LX4fgCz7) - Implicit Euler / Diffusion equation
+[Lab11](https://classroom.github.com/a/LX4fgCz7) - Implicit Euler / Diffusion equation [Solution](https://github.com/TP1-HHU/lab11_sose21)
 
 [Lab12](https://classroom.github.com/a/Bjz4EDIY) - Nonlinear Schrödinger equation
 
