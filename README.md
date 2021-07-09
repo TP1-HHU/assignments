@@ -24,7 +24,7 @@
 
 [Lab11](https://classroom.github.com/a/LX4fgCz7) - Implicit Euler / Diffusion equation [Solution](https://github.com/TP1-HHU/lab11_sose21)
 
-[Lab12](https://classroom.github.com/a/Bjz4EDIY) - Nonlinear Schrödinger equation
+[Lab12](https://classroom.github.com/a/Bjz4EDIY) - Nonlinear Schrödinger equation  [Solution](https://github.com/TP1-HHU/lab12_sose21)
 
 ### Homework
 
