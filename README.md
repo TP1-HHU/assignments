@@ -26,7 +26,9 @@
 
 [Lab12](https://classroom.github.com/a/Bjz4EDIY) - Nonlinear Schrödinger equation  [Solution](https://github.com/TP1-HHU/lab12_sose21)
 
-[Lab13](https://classroom.github.com/a/ryQCppw8) - Laser wakefield exitation
+[Lab13](https://classroom.github.com/a/ryQCppw8) - Laser wakefield exitation [Solution](https://github.com/TP1-HHU/lab13_sose21)
+
+[Lab14](https://classroom.github.com/a/vPX83Bw_) - Solar system 
 
 ### Homework
 
