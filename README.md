@@ -28,7 +28,7 @@
 
 [Lab13](https://classroom.github.com/a/ryQCppw8) - Laser wakefield exitation [Solution](https://github.com/TP1-HHU/lab13_sose21)
 
-[Lab14](https://classroom.github.com/a/vPX83Bw_) - Solar system 
+[Lab14](https://classroom.github.com/a/vPX83Bw_) - Solar system [Solution](https://github.com/TP1-HHU/lab14_sose21)
 
 ### Homework
 
